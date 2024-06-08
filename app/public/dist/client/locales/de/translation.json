@@ -2586,5 +2586,19 @@
     "NINE_LIVES": "Nach 9 Niederlagen bist du eliminiert",
     "CROWDED": "+3 max. Pokémon auf dem Feld",
     "KECLEONS_SHOP": "Item Karusselle werden, durch Kecleon´s Shop, ersetzt, die 6 Items für je 10 GOLD anbieten"
+  },
+  "loading_hints": {
+    "tab_out": "Verlasse nicht dieses Fenster! Der LAdevorgang wird pausiert, wenn das Fenster inaktiv ist.",
+    "max_loading_time": "Das Spiel startet Nach 5 Minuten, Egal was ist...",
+    "disconnection_time": "Spieler die das Spiel für mehr als 3 Minuten verlassen werden gekickt. Wenn das vor Stufe 6 passiert, verlieren diese keine Elo.",
+    "translation_project": "Übersetzungen im Spiel werden von der Community gemacht ! Besuche den Discord, wenn du auch helfen möchtest.",
+    "discord": "Trete dem Discord bei um die Community zu treffen! Link dazu ist in dem Seitenmenü.",
+    "tipeee": "Dieses Spiel hat keine Monetarisierung oder Werbung und ist nur auf Ihre Spenden angewiesen. Vielen Dank an alle Spender ❤",
+    "bug_report": "Du hast einen Bug gefunden? Gehe auf Discord und melde ihn im Kanal #bug-report.",
+    "moderation": "Wenn du Fehlverhalten im Spiel beobachtest, mache einen Screenshot und melde es einem Moderator auf Discord.",
+    "berry_tree": "Spielst du Pflanze? Denn vergesse nicht, dich um den Beerenbaum über deinem Charakter zu kümmern.",
+    "spriters": "Viele der Animationen im Spiel sind das Werk unabhängiger Künstler. Einige nehmen Aufträge an, sodass du sie unterstützen kannst. Weitere Informationen auf Discord",
+    "wiki": "Das Spiel verfügt über ein vollständiges Wiki, auf das über das Seitenmenü zugegriffen werden kann. Lass dir das nicht entgehen!",
+    "avatar": "Um Ihren Spieler-Avatar zu ändern, Musst du Spiele spielen, um XP zu verdienen und ein Level aufzusteigen. Jedes Level gewährt dir einen Booster, der dir beim Öffnen Scherben gibt, die du im Sammlungsmenü ausgeben kannst, um neue Avatare zu kaufen."
   }
 }
